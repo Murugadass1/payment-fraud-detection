@@ -1,0 +1,5 @@
+{
+  "name": "TrustChain AI",
+  "description": "A sophisticated financial dashboard combining real-time AI fraud detection with a transparent blockchain ledger. It utilizes Gemini 3 Pro for deep transaction analysis and anomaly detection.",
+  "requestFramePermissions": []
+}
